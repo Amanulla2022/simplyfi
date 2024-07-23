@@ -45,18 +45,18 @@
 
 ## Screen Shots
 
-[CreateUser]("./screenshots/createuser.png)
+![CreateUser]("./screenshots/createuser.png)
 
-[CreateArticle]("./screenshots/createarticle.png)
+![CreateArticle]("./screenshots/createarticle.png)
 
-[GetAllUser]("./screenshots/getallusers.png)
+![GetAllUser]("./screenshots/getallusers.png)
 
-[GetAllArticles]("./screenshots/getallarticles.png)
+![GetAllArticles]("./screenshots/getallarticles.png)
 
-[LikeAnArticle]("./screenshots/likeanarticle.png)
+![LikeAnArticle]("./screenshots/likeanarticle.png)
 
-[Can'tLikeAgainArticle]("./screenshots/cantlikeonceliked.png)
+![Can'tLikeAgainArticle]("./screenshots/cantlikeonceliked.png)
 
-[ViewAnArticle]("./screenshots/viewarticlescanviewmultipletime.png")
+![ViewAnArticle]("./screenshots/viewarticlescanviewmultipletime.png")
 
-[GetNotifyWhenLike]("./screenshots/getnotificationafterlike.png")
+![GetNotifyWhenLike]("./screenshots/getnotificationafterlike.png")
